@@ -1,1 +1,1 @@
-# TopplingBox
+# Box Class
